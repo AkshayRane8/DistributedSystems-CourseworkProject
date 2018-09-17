@@ -13,7 +13,7 @@ Steps to run the project tasks:
 
 Tasks:
 
-Task 1
+Task 1: 
 Use the NetBeans Project Name: Project1Task1
 You do not need to use an MVC framework for this project.
 Write an index.jsp page that asks the user to enter a string of text data, and to make
@@ -51,7 +51,7 @@ MD5: (Hex): 8B1A9953C4611296A827ABF8C47804D7
 MD5: (Base 64): ixqZU8RhEpaoJ6v4xHgE1w==
 
 
-Task 2
+Task 2: 
 Use the NetBeans Project Name: Project1Task2
 You do not need to use an MVC framework for this project.
 Later in the semester when we are studying the RSA algorithm, it will be useful to be
@@ -82,7 +82,7 @@ the pow method takes an integer, not a BigInteger.
 Be sure to provide a user friendly and attractive user interface.
 
 
-Task 3
+Task 3: 
 Use the NetBeans Project Name: Project1Task3
 You do not need to use an MVC framework for this project.
 Write another web application using NetBeans. This application will determine if a

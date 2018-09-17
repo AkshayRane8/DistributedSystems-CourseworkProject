@@ -5,7 +5,7 @@ Steps to run the project tasks:
 
 1) Open NetBeans IDE.
 
-2) Import the files all the three zip files one by one.
+2) Import all three files one by one.
 
 3) Run the index.jsp file for Project1Task1 and Project1Task2 to execute and to get the output through the browser.
 
